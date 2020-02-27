@@ -17,13 +17,16 @@ Your users should be able to:
 - Click on a country to see more detailed information on a separate page
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode
+- Extra Time: On the country's detail page, display Google Maps with a marker on the country
+- Extra Time: User can indicate their favorite countries
+- Extra Time: Display a list of their favorite counties, even after refreshing the browser
+- Extra Time: Display an error message if the country is not found.
+
 
 #### Bonus
-- On the country's detail page, display Google Maps with a marker on the country
 - Don't use a CSS framework (No bootstrap, Tailwind CSS, etc.)
-- User can indicate their favorite countries
-- Display a list of their favorite counties, even after refreshing the browser
-- Display an error message if the country is not found.
+- Use flexbox as much as possible
+- Even though we allow libraries, try to rely as little as possible on third-party libraries. As our main focus is your own code.
 
 ## Where to find everything
 
@@ -36,5 +39,8 @@ The designs are in JPG static format. This will mean that you'll need to use you
 There are no assets for this challenge, as the country flags will be pulled from the [REST Countries API](https://restcountries.eu) and you can use an icon font library for the icons.
 
 There is a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+
+## Submission
+Fork this repository and send us a pull request. We'll review it and get back to you.
 
 **Have fun building!** 🚀
